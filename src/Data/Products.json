@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "name":"Nike Air force 1",
+        "price":200,
+        "image":"./img/shoe2.png",
+        "description":"Lorem ipsum dolor sit amet, "
+    },
+    {
+        "id":"2",
+        "name":"Nike Air force 1",
+        "price":200,
+        "image":"./img/shoe3.png",
+        "description":"Lorem ipsum dolor sit amet, "
+    },
+    {
+        "id":"3",
+        "name":"Nike Air Max",
+        "price":400,
+        "image":"./img/shoe4.png",
+        "description":"Lorem ipsum dolor sit amet, "
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "item":"1",
+        "title":"Excelent customer service",
+        "des":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore impedit nemo saepe corporis error provident fuga animi possimus? Quis, totam?",
+        "img":"./img/items/dish.svg"
+    },
+    {
+        "item":"2",
+        "title":"Latest Shoes",
+        "des":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore impedit nemo saepe corporis error provident fuga animi possimus? Quis, totam?",
+        "img":"./img/items/running.svg"
+    },
+    {
+        "item":"3",
+        "title":"Fast delivery",
+        "des":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore impedit nemo saepe corporis error provident fuga animi possimus? Quis, totam?",
+        "img":"./img/items/technical-support.svg"
+    }
+
+]
